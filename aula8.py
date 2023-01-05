@@ -1,4 +1,9 @@
- 
+nome = 'Victor'
+sobrenome = 'Correa'
+idade = 26
+ano_nascimento = 2022 - idade
+maior_de_idade = idade >= 18
+altura_metros = 1.81    
 
 print ('nome:', nome)
 print ('sobrenome:', sobrenome)
